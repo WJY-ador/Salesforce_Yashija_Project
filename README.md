@@ -155,7 +155,7 @@ graph TB
 
 ---
 
-### 2️⃣ **AI 기반 지능형 파트너 매칭 시스템**
+### 2️⃣ **데이터 기반 파트너 매칭 시스템**
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/YashijaSalesForce/DesignPartnerRecommendation-jeongyeon)
